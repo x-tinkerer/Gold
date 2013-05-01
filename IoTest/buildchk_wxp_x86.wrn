@@ -1,8 +1,0 @@
-1>warnings in directory d:\open_source_code\gold\iotest
-1>d:\open_source_code\gold\iotest\iotest.c(56) : warning C4995: 'MmGetSystemAddressForMdl': name was marked as #pragma deprecated
-1>d:\open_source_code\gold\iotest\iotest.c(56) : warning C4996: 'MmMapLockedPages': was declared deprecated
-1>d:\open_source_code\gold\iotest\iotest.c(172) : warning C4995: 'MmGetSystemAddressForMdl': name was marked as #pragma deprecated
-1>d:\open_source_code\gold\iotest\iotest.c(172) : warning C4996: 'MmMapLockedPages': was declared deprecated
-1>d:\open_source_code\gold\iotest\iotest.c(259) : warning C4047: 'function' : 'PCSTR' differs in levels of indirection from 'NTSTATUS'
-1>d:\open_source_code\gold\iotest\iotest.c(259) : warning C4024: 'DbgPrint' : different types for formal and actual parameter 1
-1>d:\open_source_code\gold\iotest\iotest.c(294) : warning C4098: 'UnloadDriver' : 'void' function returning a value
