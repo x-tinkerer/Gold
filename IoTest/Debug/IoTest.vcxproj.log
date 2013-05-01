@@ -1,0 +1,33 @@
+﻿  chk is chk or fre WXP is WXP or W2K or WNET.
+  OACR monitor running already
+  Starting dirs creation...Completed.
+  path contains nonexistant c:\program files (x86)\microsoft visual studio 11.0\common7\tools\bin, removing
+  BUILD: Compile and Link for x86
+  
+  BUILD: Loading c:\winddk\7600.16385.1\build.dat...
+  
+  BUILD: Computing Include file dependencies:
+  
+  BUILD: Start time: Wed May 01 21:56:49 2013
+  BUILD: Examining d:\open_source_code\gold\iotest directory for files to compile.
+  
+      d:\open_source_code\gold\iotest 
+  
+  Invalidating OACR warning log for 'root:x86chk'
+  BUILD: Saving c:\winddk\7600.16385.1\build.dat...
+  
+  BUILD: Compiling and Linking d:\open_source_code\gold\iotest directory
+  
+  Configuring OACR for 'root:x86chk' - <OACR on>
+  _NT_TARGET_VERSION SET TO WINXP
+  Compiling - iotest.c
+  Linking Executable - objchk_wxp_x86\i386\iotest.sys
+  BUILD: Finish time: Wed May 01 21:56:50 2013
+  BUILD: Done
+  
+  
+  
+      3 files compiled - 8 Warnings - 296 LPS
+  
+      1 executable built
+  

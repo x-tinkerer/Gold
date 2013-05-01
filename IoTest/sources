@@ -1,0 +1,16 @@
+!IF 0
+
+Copyright (C) Microsoft Corporation, 1997 - 1999
+
+Module Name:
+
+    sources.
+
+!ENDIF
+
+TARGETNAME=IoTest
+TARGETPATH=obj
+TARGETTYPE=DRIVER
+SOURCES =IoTest.c
+
+TARGETLIBS= $(DDK_LIB_PATH)\ntstrsafe.lib
